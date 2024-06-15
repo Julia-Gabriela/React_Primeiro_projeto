@@ -1,0 +1,19 @@
+#article{
+    display: flex;
+    gap: 1rem;
+    font-family: "Judson", serif;
+}
+#article .article-infos h2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 12px;
+    font-family:  "Julius Sans One", sans-serif;
+}
+#article .article-infos h3{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(139, 137, 137);
+    margin-bottom: 1rem;
+    font-family:  "Julius Sans One", sans-serif;
+    
+}
